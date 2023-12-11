@@ -49,3 +49,15 @@ main {
 div#img-div {
     margin: 0 auto;
 }
+
+.tribute-info {
+    align-items: center;
+}
+
+.title-align {
+    padding-top: 40px;
+}
+
+.tributeLink {
+    padding-bottom: 30px;
+}
